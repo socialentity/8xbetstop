@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+8xbet | Đại lý độc quyền nhà cái 8xbet casino tại Châu Á – 8xbets.top
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`8xbet <https://8xbets.top/>`_ là nhà cái cá cược trực tuyến uy tín và nổi tiếng tại Việt Nam, được thành lập vào tháng 6 năm 2019 và có trụ sở chính tại Philippines. Nổi bật với các sản phẩm cá cược thể thao và casino trực tuyến, 8xbet đã thu hút hơn 5 triệu người chơi trên toàn thế giới. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Vào ngày 7/6/2024, trang web 8xbets.top chính thức trở thành đại lý độc quyền của 8xbet tại thị trường Việt Nam. 8xbets.top cam kết mang đến trải nghiệm cá cược thú vị và bảo mật cho người chơi, đồng thời hỗ trợ nhiều hình thức cá cược như euro 2024, bài ba tây, Sicbo, Blackjack, bóng chày, tenis và bóng đá.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 8 Đỗ Công Tường, Tân Quý, Tân Phú, Hồ Chí Minh, Việt Nam.
 
-Contents
---------
+Phone: 0866522141. 
 
-.. toctree::
+Email: info@8xbets.top. 
 
-   usage
-   api
+Website: `https://8xbets.top/ <https://8xbets.top/>`_
+
+#8xbet #nhacai8xbet #trangchu8xbet #dangky8xbet #link8xbet
